@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil da Carol Firisa 😁
+## Bem-vindo(a) ao perfil da Carol Ribeiro 😁
 
  <div>
-   <a href="https://github.com/CarolFirisa">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolFirisa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolFirisa&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/CarolRibeiro">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolRibeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolRibeiro&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
